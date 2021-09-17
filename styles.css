@@ -16,5 +16,9 @@ h3 {
 p {
     font-size: 18px;
     line-height: 27px;
-    color: #000;
+    color: #333;
+}
+img{
+    width: 50%;
+    height: 100%;
 }
